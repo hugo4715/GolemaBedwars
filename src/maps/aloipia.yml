@@ -1,0 +1,201 @@
+LobbyLocation:
+  x: 500.5
+  y: 67.0
+  z: 500.5
+  yaw: 0.0
+  pitch: 0.0
+CenterLocation:
+  x: 0.5
+  y: 80.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+TeamSpawnLocation:
+  'Rouge':
+    x: -16.5
+    y: 64.0
+    z: 84.5
+    yaw: -180.0
+    pitch: 0.0
+  'Bleu':
+    x: 47.5
+    y: 64.0
+    z: 84.5
+    yaw: -180.0
+    pitch: 0.0
+  'Vert':
+    x: 84.5
+    y: 64.0
+    z: 17.5
+    yaw: 90.0
+    pitch: 0.0
+  'Jaune':
+    x: 84.5
+    y: 64.0
+    z: -46.5
+    yaw: 90.0
+    pitch: 0.0
+  'Cyan':
+    x: 17.5
+    y: 64.0
+    z: -83.5
+    yaw: 0.0
+    pitch: 0.0
+  'Rose':
+    x: -46.5
+    y: 64.0
+    z: -83.5
+    yaw: 0.0
+    pitch: 0.0
+  'Orange':
+    x: -83.5
+    y: 64.0
+    z: -16.5
+    yaw: -90.0
+    pitch: 0.0
+  'Blanche':
+    x: -83.5
+    y: 64.0
+    z: 47.5
+    yaw: -90
+    pitch: 0.0
+TeamForgeLocation:
+  'Rouge':
+    x: -16.5
+    y: 63.0
+    z: 89.5
+  'Bleu':
+    x: 47.5
+    y: 63.0
+    z: 89.5
+  'Vert':
+    x: 89.5
+    y: 63.0
+    z: 17.5
+  'Jaune':
+    x: 89.5
+    y: 63.0
+    z: -46.5
+  'Cyan':
+    x: 17.5
+    y: 63.0
+    z: -88.5
+  'Rose':
+    x: -46.5
+    y: 63.0
+    z: -88.5
+  'Orange':
+    x: -88.5
+    y: 63.0
+    z: -16.5
+  'Blanche':
+    x: -88.5
+    y: 63.0
+    z: 47.5
+TeamZoneCuboid:
+  'Rouge':
+    max:
+      x: -6.0
+      y: 94.0
+      z: 66.0
+    min:
+      x: -28.0
+      y: 50.0
+      z: 92.0
+  'Bleu':
+    min:
+      x: 36.0
+      y: 50.0
+      z: 92.0
+    max:
+      x: 58.0
+      y: 94.0
+      z: 66.0
+  'Vert':
+    min:
+      x: 92.0
+      y: 50.0
+      z: 28.0
+    max:
+      x: 66.0
+      y: 94.0
+      z: 6.0
+  'Jaune':
+    min:
+      x: 92.0
+      y: 50.0
+      z: -36.0
+    max:
+      x: 66.0
+      y: 94.0
+      z: -58.0
+  'Cyan':
+    min:
+      x: 28.0
+      y: 50.0
+      z: -92.0
+    max:
+      x: 6.0
+      y: 94.0
+      z: -66.0
+  'Rose':
+    min:
+      x: -36.0
+      y: 50.0
+      z: -92.0
+    max:
+      x: -58.0
+      y: 94.0
+      z: -66.0
+  'Orange':
+    min:
+      x: -92.0
+      y: 50.0
+      z: -28.0
+    max:
+      x: -66.0
+      y: 94.0
+      z: -6.0
+  'Blanche':
+    min:
+      x: -92.0
+      y: 50.0
+      z: 36.0
+    max:
+      x: -66.0
+      y: 94.0
+      z: 58.0
+EmeraldSpawner:
+  '1':
+    x: -10.5
+    y: 65.0
+    z: -4.5
+  '2':
+    x: 5.5
+    y: 65.0
+    z: -10.5
+  '3':
+    x: 11.5
+    y: 65.0
+    z: 5.5
+  '4':
+    x: -4.5
+    y: 65.0
+    z: 11.5
+DiamondSpawner:
+  '1':
+    x: -14.5
+    y: 65.0
+    z: -50.0
+  '2':
+    x: 51.5
+    y: 65.0
+    z: -14.5
+  '3':
+    x: 15.5
+    y: 65.0
+    z: 51.5
+  '4':
+    x: -50.5
+    y: 65.0
+    z: 15.5
